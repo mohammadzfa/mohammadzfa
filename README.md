@@ -29,5 +29,7 @@ I am a passionate software developer focused on building seamless digital experi
 ---
 
 ### 📊 GitHub Stats
+
 ![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadzfa&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadzfa&layout=compact&theme=radical)
