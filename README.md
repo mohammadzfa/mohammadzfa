@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**mohammadzfa/mohammadzfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mohammad 👋
 
-Here are some ideas to get you started:
+### 👨‍💻 Full-stack & iOS Developer
+I am a passionate software developer focused on building seamless digital experiences. Currently, I'm working on an advanced macOS utility for iPhone management using **SwiftUI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 My Tech Stack
+- **Web:** Python, JavaScript (ES6+), HTML5, CSS3
+- **Mobile & Desktop:** Swift, SwiftUI (iOS & macOS)
+- **Tools:** Git, GitHub, Xcode, VS Code
+
+---
+
+### 🛠️ Current Project
+**iPhone Management Tool for macOS**
+- 🔋 Battery health & cycle monitoring
+- 📲 Automated Flash & Restore
+- 🛠️ Full hardware diagnostics
+- 💾 Secure Backup/Restore
+
+---
+
+### 📫 How to reach me:
+- [LinkedIn](www.linkedin.com/in/mohammad-khoshniat-8b0150145)
+- [GitHub Profile](https://github.com/mohammadzfa)
+
+---
+
+### 📊 GitHub Stats
+![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadzfa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadzfa&layout=compact&theme=radical)
